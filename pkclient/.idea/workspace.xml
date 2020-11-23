@@ -19,23 +19,112 @@
     <select />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="piraten-kapern-client" targetName="pkclient" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
-    <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
-    </configurations>
+    <configurations />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169d43f0-05e8-4668-90e7-6d2126d25f84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/piraten-kapern-C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/piraten-kapern-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pkclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pkclient.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/piraten-kapern-client.cbp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/include/client.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/piraten-kapern-C.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/pkserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/pk.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/cmake-build-debug/piraten-kapern-server.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/Condition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/HttpResponse.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/MutexLock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/ThreadPool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/Util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/httpparse.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/noncopyable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/server.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/include/ssocket.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/ThreadPool.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/Util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/httpparse.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/httpresponse.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkserver/src/ssocket.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pkserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pkserver/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +134,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1kfzscdDx0SZal6ecnitf4VAx1u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -60,6 +144,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -70,18 +155,12 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pkclient" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="piraten-kapern-client" TARGET_NAME="pkclient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="piraten-kapern-client" RUN_TARGET_NAME="pkclient">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="169d43f0-05e8-4668-90e7-6d2126d25f84" name="Default Changelist" comment="" />
@@ -89,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606106642236</updated>
-      <workItem from="1606106643507" duration="572000" />
+      <workItem from="1606106643507" duration="1413000" />
     </task>
     <servers />
   </component>

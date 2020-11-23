@@ -1,0 +1,1 @@
+g++  -g   CMakeFiles/pkclient.dir/src/main.cpp.o CMakeFiles/pkclient.dir/src/client.cpp.o  -o pkclient  -lpthread 

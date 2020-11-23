@@ -1,0 +1,3 @@
+/home/kevin/repo/c++/piraten-kapern-c/pkclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kevin/repo/c++/piraten-kapern-c/pkclient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kevin/repo/c++/piraten-kapern-c/pkclient/cmake-build-debug/CMakeFiles/pkclient.dir
